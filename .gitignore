@@ -1,0 +1,6 @@
+# config
+config.sh
+
+# generated certs and other temporary files
+httpd-csr.*
+*.pem
